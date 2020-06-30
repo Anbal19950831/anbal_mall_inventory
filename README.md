@@ -1,0 +1,1 @@
+# anbal_mall_inventory
